@@ -1,0 +1,19 @@
+html {
+    direction: rtl;
+    text-align: right;
+}
+
+body {
+    font-family: 'Cairo', sans-serif;
+}
+
+p, h1, h2, h3, h4, h5, h6, ul, ol, li {
+    direction: rtl;
+    text-align: right;
+}
+
+pre, code {
+    direction: ltr;
+    text-align: left;
+    unicode-bidi: embed;
+}

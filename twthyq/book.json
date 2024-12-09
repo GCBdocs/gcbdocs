@@ -1,0 +1,7 @@
+{
+    "language": "ar",
+    "direction": "rtl",
+    "styles": {
+        "website": "styles/rtl.css"
+    }
+}
