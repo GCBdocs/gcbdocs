@@ -1,0 +1,7 @@
+# GCB Social Wallet
+
+The **GCB Custodial Social ID Wallet** is a centralized identity management solution designed to provide seamless access to the entire GCB ecosystem through a single, unified portal. This wallet serves as a central hub for users to securely store and manage their digital identities, allowing them to interact with various GCB services effortlessly. As a custodial wallet, GCB will manage and safeguard user identity information, ensuring that security and compliance standards are met while offering a smooth and user-friendly experience. This approach eliminates the need for users to handle private keys or complex cryptographic processes, making it accessible to a wide range of users.
+
+### Key features
+
+GCB Social ID Wallet is its integration with **payment gateways**, enabling users to easily recharge their accounts and conduct transactions directly within the ecosystem. This integration facilitates instant account funding, access to premium services, and streamlined financial operations without needing external platforms. By combining centralized identity management with integrated financial capabilities, the GCB Custodial Social ID Wallet provides a comprehensive solution for users to manage both their identity and financial activities in one secure, efficient platform. This innovative wallet is central to the GCB ecosystem, simplifying user access and enhancing the overall customer experience.
