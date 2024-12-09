@@ -2,6 +2,7 @@
 description: قريبا
 icon: building-flag
 ---
+<div dir="rtl" style="text-align: right;">
 
 # برنامج السفراء
 
