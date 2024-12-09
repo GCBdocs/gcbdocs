@@ -29,7 +29,7 @@ icon: building-flag
 
 <mark style="color:purple;">تقدم بطلب الانضمام من هنا</mark>
 
-\
+</div>
 
 
 
