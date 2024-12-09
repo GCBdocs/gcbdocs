@@ -1,6 +1,5 @@
 {
-    "language": "ar",
-    "direction": "rtl",
+    "plugins": ["custom-styles"],
     "styles": {
         "website": "styles/rtl.css"
     }

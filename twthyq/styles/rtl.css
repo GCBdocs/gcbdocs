@@ -17,3 +17,8 @@ pre, code {
     text-align: left;
     unicode-bidi: embed;
 }
+.rtl {
+    direction: rtl;
+    text-align: right;
+    font-family: 'Cairo', sans-serif;
+}
