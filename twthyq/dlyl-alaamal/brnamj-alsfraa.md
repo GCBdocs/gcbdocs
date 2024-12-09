@@ -1,8 +1,9 @@
 ---
 description: قريبا
 icon: building-flag
+direction: rtl
 ---
-<div dir=rtl>
+
 
 # برنامج السفراء
 
@@ -29,7 +30,7 @@ icon: building-flag
 
 <mark style="color:purple;">تقدم بطلب الانضمام من هنا</mark>
 
-</div>
+
 
 
 
