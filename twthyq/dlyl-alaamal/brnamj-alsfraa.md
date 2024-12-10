@@ -4,7 +4,12 @@ icon: building-flag
 
 ---
 
-<div dir=rtl>
+<style>
+    .flex-1.relative.py-8.lg\:px-12.break-anywhere.page-api-block\:xl\:max-2xl\:pr-0.page-api-block\:max-w-\[1654px\].page-api-block\:mx-auto {
+    direction: rtl;
+    text-align: right; /* Optional: aligns text to the right */
+}
+</style>
 # برنامج السفراء
 
 كن سفيرًا لـ GCBex، واحصل على مكافأة شهرية تصل إلى 500 دولار في المتوسط.
@@ -27,7 +32,7 @@ icon: building-flag
 
 الحضور/المعرفة في أحداث البلوكشين والعملات الرقمية و لقاءات AMA المتنوعة.\
 
-</div >
+
 <mark style="color:purple;">تقدم بطلب الانضمام من هنا</mark>
 
 
