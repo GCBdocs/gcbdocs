@@ -4,7 +4,8 @@ icon: building-flag
 
 ---
 
-{.rtl}
+<link rel="stylesheet" href="../styles/rtl.css">
+
 # برنامج السفراء
 
 كن سفيرًا لـ GCBex، واحصل على مكافأة شهرية تصل إلى 500 دولار في المتوسط.
