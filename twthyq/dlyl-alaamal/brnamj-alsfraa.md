@@ -1,8 +1,9 @@
 ---
 description: قريبا
 icon: building-flag
+
 ---
-{.rtl}
+
 
 # برنامج السفراء
 
