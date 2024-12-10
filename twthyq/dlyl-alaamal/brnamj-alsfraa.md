@@ -5,7 +5,7 @@ icon: building-flag
 ---
 
 <style>
-    .flex-1.relative.py-8.lg\:px-12.break-anywhere.page-api-block\:xl\:max-2xl\:pr-0.page-api-block\:max-w-\[1654px\].page-api-block\:mx-auto {
+    .flex-1 {
     direction: rtl;
     text-align: right; /* Optional: aligns text to the right */
 }
