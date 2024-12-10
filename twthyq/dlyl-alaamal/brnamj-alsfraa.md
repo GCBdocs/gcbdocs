@@ -4,7 +4,7 @@ icon: building-flag
 
 ---
 
-<link rel="stylesheet" href="../styles/rtl.css">
+<link rel="stylesheet" href="rtl.css">
 
 # برنامج السفراء
 
