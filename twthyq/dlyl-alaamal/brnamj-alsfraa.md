@@ -1,15 +1,11 @@
 ---
+direction: rtl
 description: قريبا
 icon: building-flag
 
 ---
 
-<style>
-    .flex-1 {
-    direction: rtl;
-    text-align: right; /* Optional: aligns text to the right */
-}
-</style>
+
 # برنامج السفراء
 
 كن سفيرًا لـ GCBex، واحصل على مكافأة شهرية تصل إلى 500 دولار في المتوسط.
