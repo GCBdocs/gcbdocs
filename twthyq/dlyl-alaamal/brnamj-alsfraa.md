@@ -1,10 +1,10 @@
-<div dir=rtl>
+
 ---
 description: قريبا
 icon: building-flag
 
 ---
-
+<div dir=rtl>
 <link rel="stylesheet" href="rtl.css">
 
 # برنامج السفراء
