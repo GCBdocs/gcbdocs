@@ -3,8 +3,7 @@ description: قريبا
 icon: building-flag
 
 ---
-<div dir=rtl>
-<link rel="stylesheet" href="rtl.css">
+
 
 # برنامج السفراء
 
@@ -20,6 +19,8 @@ icon: building-flag
 
 
 
+\
+\
 **أحد الشروط التي يجب أن تتوفر في السفير:**
 
 التسويق و/أو الإعلان مع قاعدة مجتمعية في عالم العملات الرقمية على وسائل التواصل الاجتماعي.
@@ -29,7 +30,7 @@ icon: building-flag
 
 <mark style="color:purple;">تقدم بطلب الانضمام من هنا</mark>
 
-</div>
+
 
 
 
