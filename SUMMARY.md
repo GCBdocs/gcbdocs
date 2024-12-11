@@ -19,7 +19,7 @@
 * [Business Guide](documentation/business-guide/README.md)
   * [Listing](documentation/business-guide/listing.md)
   * [Ambassador](documentation/business-guide/ambassador.md)
-  * [Broker](documentation/business-guide/broker.md)
+  * [GCB Broker](documentation/business-guide/broker.md)
   * [Referrals](documentation/business-guide/referrals.md)
   * [Agent](documentation/business-guide/agent.md)
 * [User Guide](documentation/user-guide/README.md)
@@ -76,7 +76,7 @@
 * [Stay Connected](stay-connected.md)
 * [Appendix](appendix.md)
 
-## توثيق&#x20;
+## توثيق
 
 * [GCB CryptoCurrency Exchange](twthyq/gcb-cryptocurrency-exchange/README.md)
   * [Introduction](twthyq/gcb-cryptocurrency-exchange/quickstart.md)
