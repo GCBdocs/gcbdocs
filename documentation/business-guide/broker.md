@@ -37,7 +37,7 @@ To participate in GCB's affiliate program, start by obtaining your affiliate lin
 
 ***
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-11 at 16.53.00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-12-11 at 19.04.30.png" alt=""><figcaption></figcaption></figure>
 
 ### Join the GCB Exchange Affiliate Program!
 
