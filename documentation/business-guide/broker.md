@@ -1,6 +1,6 @@
 ---
-description: Affiliate
 icon: people-line
+description: Affiliate
 ---
 
 # GCB Broker
@@ -45,7 +45,7 @@ Welcome to the GCB Exchange Affiliate Program! Partner with us and earn by shari
 
 #### Why Join Us?
 
-* **High Commission Rates:** Earn up to 50% commission on every transaction made by your referrals.
+* **High Commission Rates:** Earn up to 30% commission on every transaction made by your referrals.
 * **Monthly Payouts:** Reliable, monthly payouts directly to your account.
 * **Exclusive Promotions:** Access to special promotions and bonuses designed exclusively for our affiliates.
 * **Marketing Support:** Receive professional banners, landing pages, and exclusive content to boost your affiliate marketing efforts.
