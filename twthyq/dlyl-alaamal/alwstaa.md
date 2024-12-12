@@ -1,6 +1,6 @@
 ---
-description: انضم
 icon: people-line
+description: انضم
 ---
 
 # الوسطاء
@@ -14,7 +14,7 @@ icon: people-line
 
 #### **ما هو برنامج الإحالة الخاص بـ GCB وكيف يعمل؟**
 
-برنامج الإحالة للعملات الرقمية الخاص بـ GCB ناضجًا أو متاحًا للجمهور. الشراكة، قم بزيارة موقعهم الرسمي. نوصي بشدة أن تنظر في https://www.gcbex.com/en\_US/Broker، وهي منصة ناضجة وموثوقة ومعروفة لبرامج الإحالة.
+برنامج الإحالة للعملات الرقمية الخاص بـ GCB ناضجًا أو متاحًا للجمهور. الشراكة، قم بزيارة موقعهم الرسمي. نوصي بشدة أن تنظر في [https://www.gcbex.com/ar\_AE/Broker](https://www.gcbex.com/ar_AE/broker)، وهي منصة ناضجة وموثوقة ومعروفة لبرامج الإحالة.
 
 #### **مزايا للمُحيلين**
 
@@ -49,7 +49,7 @@ icon: people-line
 انضم إلى برنامج الإحالة لـ GCB Exchange اليوم!
 
 &#x20;جاهز لبدء الكسب؟ املأ النموذج أدناه وكن محيلاً لـ GCB Exchange اليوم!\
-رابط التابع Affiliate Link form
+رابط التابع [Affiliate Link form](https://docs.google.com/forms/d/e/1FAIpQLSfryqcSnYPaV4br2Tu9odRDKF8XyaleHtxtN5A7NvTMfaFgyA/viewform)
 
 
 

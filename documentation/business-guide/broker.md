@@ -62,4 +62,4 @@ Welcome to the GCB Exchange Affiliate Program! Partner with us and earn by shari
 
 Ready to start earning? Fill out the form below and become a GCB Exchange affiliate today!\
 \
-Apply here to become Broker with GCB: [Affiliate link](../../)&#x20;
+Apply here to become Broker with GCB: [Affiliate Link](https://docs.google.com/forms/d/e/1FAIpQLSfryqcSnYPaV4br2Tu9odRDKF8XyaleHtxtN5A7NvTMfaFgyA/viewform)
