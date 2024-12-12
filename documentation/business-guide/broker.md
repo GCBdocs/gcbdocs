@@ -10,7 +10,7 @@ Become a Broker @GCBex & get commission on trades, find the link here:\
 Or Contact Us: [port@gcbex.com](mailto:support@gcbex.com)\
 
 
-Apply here to become Broker with GCB: [Affiliate link](ttps://docs.google.com/forms/d/e/1FAIpQLSfryqcSnYPaV4br2Tu9odRDKF8XyaleHtxtN5A7NvTMfaFgyA/viewform?usp=dialog)&#x20;
+Apply here to become Broker with GCB: [Affiliate link](https://docs.google.com/forms/d/e/1FAIpQLSfryqcSnYPaV4br2Tu9odRDKF8XyaleHtxtN5A7NvTMfaFgyA/viewform?usp=dialog)&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-10-11 at 16.56.51.png" alt=""><figcaption></figcaption></figure>
 
@@ -62,4 +62,4 @@ Welcome to the GCB Exchange Affiliate Program! Partner with us and earn by shari
 
 Ready to start earning? Fill out the form below and become a GCB Exchange affiliate today!\
 \
-Apply here to become Broker with GCB: [Affiliate link](ttps://docs.google.com/forms/d/e/1FAIpQLSfryqcSnYPaV4br2Tu9odRDKF8XyaleHtxtN5A7NvTMfaFgyA/viewform?usp=dialog)&#x20;
+Apply here to become Broker with GCB: [Affiliate link](../../)&#x20;
