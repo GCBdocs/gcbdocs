@@ -1,6 +1,22 @@
 ---
 icon: people-line
 description: Affiliate
+cover: ../../.gitbook/assets/GCB cover affiliate.png
+coverY: 18.20833333333333
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # GCB Broker
@@ -37,11 +53,11 @@ To participate in GCB's affiliate program, start by obtaining your affiliate lin
 
 ***
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-11 at 19.04.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/affiliate gcb.png" alt=""><figcaption></figcaption></figure>
 
 ### Join the GCB Exchange Affiliate Program!
 
-Welcome to the GCB Exchange Affiliate Program! Partner with us and earn by sharing the advantages of our platform with your audience.
+Partner with us and earn by sharing the advantages of our platform with your audience.
 
 #### Why Join Us?
 
