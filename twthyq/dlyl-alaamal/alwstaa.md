@@ -2,7 +2,7 @@
 icon: people-line
 description: انضم
 cover: ../../.gitbook/assets/GCB Affiliate arabic.png
-coverY: 0
+coverY: -101.26666666666667
 layout:
   cover:
     visible: true
