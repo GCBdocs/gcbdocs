@@ -1,6 +1,22 @@
 ---
 icon: people-line
 description: انضم
+cover: ../../.gitbook/assets/GCB Affiliate arabic.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # الوسطاء
@@ -30,9 +46,9 @@ description: انضم
 
 مرحبًا بكم في برنامج الإحالة لـ GCB Exchange! شارك معنا واربح من خلال مشاركة مزايا منصتنا مع جمهورك.
 
-#### **لماذا تنضم إلينا؟**
+<figure><img src="../../.gitbook/assets/Screenshot 2024-12-13 at 20.33.32 (1).png" alt=""><figcaption></figcaption></figure>
 
-
+### **لماذا تنضم إلينا؟**
 
 * **معدلات عمولات عالية**: اكسب ما يصل إلى 30% عمولة على كل معاملة تتم من خلال إحالاتك. الدفع الشهري: دفعات شهرية موثوقة مباشرة إلى حسابك.
 * &#x20;**العروض الحصرية:** الوصول إلى العروض والمكافآت الخاصة المصممة خصيصًا لمُحيلينا. دعم التسويق: استلم اللافتات الاحترافية، وصفحات الهبوط، والمحتوى الحصري لتعزيز جهودك في التسويق بالعمولة.&#x20;
