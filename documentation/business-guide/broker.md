@@ -1,8 +1,8 @@
 ---
 icon: people-line
 description: Affiliate
-cover: ../../.gitbook/assets/GCB cover affiliate.png
-coverY: 18.20833333333333
+cover: ../../.gitbook/assets/GCB cover affiliate (1).png
+coverY: 0
 layout:
   cover:
     visible: true
