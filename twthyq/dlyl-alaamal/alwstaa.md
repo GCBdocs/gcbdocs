@@ -68,7 +68,7 @@ dir: rtl   # Add this to the front matter if supported by the renderer
 
 &#x20;جاهز لبدء الكسب؟ املأ النموذج أدناه وكن محيلاً لـ GCB Exchange اليوم!\
 رابط التابع [Affiliate Link form](https://docs.google.com/forms/d/e/1FAIpQLSfryqcSnYPaV4br2Tu9odRDKF8XyaleHtxtN5A7NvTMfaFgyA/viewform)
-
+</div>
 
 
 
