@@ -20,8 +20,13 @@ layout:
 dir: rtl   # Add this to the front matter if supported by the renderer
 ---
 
-<div dir="rtl">
-# الوسطاء
+<style>
+  body {
+    direction: rtl;
+    text-align: right;
+  }
+</style>
+# <h2 style="direction: rtl; text-align: right;">الوسطاء</h2>
 
 كن وسيطًا في GCBex واحصل على عمولة على التداولات، تجد الرابط هنا: \
 [https://www.gcbex.com/ar\_AE/Broker](https://www.gcbex.com/ar_AE/Broker)\
@@ -68,7 +73,7 @@ dir: rtl   # Add this to the front matter if supported by the renderer
 
 &#x20;جاهز لبدء الكسب؟ املأ النموذج أدناه وكن محيلاً لـ GCB Exchange اليوم!\
 رابط التابع [Affiliate Link form](https://docs.google.com/forms/d/e/1FAIpQLSfryqcSnYPaV4br2Tu9odRDKF8XyaleHtxtN5A7NvTMfaFgyA/viewform)
-</div>
+
 
 
 
