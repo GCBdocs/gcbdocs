@@ -17,8 +17,10 @@ layout:
     visible: true
   pagination:
     visible: true
+dir: rtl   # Add this to the front matter if supported by the renderer
 ---
 
+<div dir="rtl">
 # الوسطاء
 
 كن وسيطًا في GCBex واحصل على عمولة على التداولات، تجد الرابط هنا: \
