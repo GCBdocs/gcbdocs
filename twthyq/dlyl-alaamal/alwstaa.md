@@ -17,16 +17,9 @@ layout:
     visible: true
   pagination:
     visible: true
-dir: rtl   # Add this to the front matter if supported by the renderer
 ---
 
-<style>
-  body {
-    direction: rtl;
-    text-align: right;
-  }
-</style>
-# <h2 style="direction: rtl; text-align: right;">الوسطاء</h2>
+# الوسطاء
 
 كن وسيطًا في GCBex واحصل على عمولة على التداولات، تجد الرابط هنا: \
 [https://www.gcbex.com/ar\_AE/Broker](https://www.gcbex.com/ar_AE/Broker)\
