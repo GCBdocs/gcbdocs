@@ -1,6 +1,6 @@
 ---
 icon: people-line
-description: اضم
+description: انضم
 cover: ../../.gitbook/assets/GCB Affiliate arabic.png
 coverY: -101.26666666666667
 theme:
