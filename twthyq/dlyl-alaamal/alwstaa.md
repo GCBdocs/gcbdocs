@@ -3,9 +3,6 @@ icon: people-line
 description: انضم
 cover: ../../.gitbook/assets/GCB Affiliate arabic.png
 coverY: -101.26666666666667
-[lang="ar"] {
-  direction: rtl !important;
-}
 layout:
   cover:
     visible: true
