@@ -19,6 +19,10 @@ layout:
   pagination:
     visible: true
 ---
+[lang="ar"] {
+  direction: rtl !important;
+  text-align: right !important;
+}
 
 # الوسطاء
 
